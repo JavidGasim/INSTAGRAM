@@ -1,0 +1,14 @@
+C:\Users\gasim\source\repos\INSTAGRAM\INSTAGRAM\bin\Debug\net6.0\INSTAGRAM.exe
+C:\Users\gasim\source\repos\INSTAGRAM\INSTAGRAM\bin\Debug\net6.0\INSTAGRAM.deps.json
+C:\Users\gasim\source\repos\INSTAGRAM\INSTAGRAM\bin\Debug\net6.0\INSTAGRAM.runtimeconfig.json
+C:\Users\gasim\source\repos\INSTAGRAM\INSTAGRAM\bin\Debug\net6.0\INSTAGRAM.dll
+C:\Users\gasim\source\repos\INSTAGRAM\INSTAGRAM\bin\Debug\net6.0\INSTAGRAM.pdb
+C:\Users\gasim\source\repos\INSTAGRAM\INSTAGRAM\obj\Debug\net6.0\INSTAGRAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gasim\source\repos\INSTAGRAM\INSTAGRAM\obj\Debug\net6.0\INSTAGRAM.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\INSTAGRAM\INSTAGRAM\obj\Debug\net6.0\INSTAGRAM.AssemblyInfo.cs
+C:\Users\gasim\source\repos\INSTAGRAM\INSTAGRAM\obj\Debug\net6.0\INSTAGRAM.csproj.CoreCompileInputs.cache
+C:\Users\gasim\source\repos\INSTAGRAM\INSTAGRAM\obj\Debug\net6.0\INSTAGRAM.dll
+C:\Users\gasim\source\repos\INSTAGRAM\INSTAGRAM\obj\Debug\net6.0\refint\INSTAGRAM.dll
+C:\Users\gasim\source\repos\INSTAGRAM\INSTAGRAM\obj\Debug\net6.0\INSTAGRAM.pdb
+C:\Users\gasim\source\repos\INSTAGRAM\INSTAGRAM\obj\Debug\net6.0\INSTAGRAM.genruntimeconfig.cache
+C:\Users\gasim\source\repos\INSTAGRAM\INSTAGRAM\obj\Debug\net6.0\ref\INSTAGRAM.dll
